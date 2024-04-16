@@ -3,7 +3,10 @@ silahkan di Lihat,Ambil,Modifikasi (LAM)
 
 Tampilan Baru
 <img width="945" alt="olim 2" src="https://github.com/Ingridjewisrasaragih/SitemPendaftaranOlimpiade/assets/152147045/e8b1c57a-49bd-435b-bfdf-ee5bfdabc424">
+
+
 <img width="767" alt="OLIM  1" src="https://github.com/Ingridjewisrasaragih/SitemPendaftaranOlimpiade/assets/152147045/0ab58d92-b5d6-44bd-a1c8-7781dd185b1d">
+
 ERD
 ![image](https://github.com/Ingridjewisrasaragih/SitemPendaftaranOlimpiade/assets/152147045/57ab50fd-4ddc-47ec-bbd9-a7c2d096d4c4)
 
